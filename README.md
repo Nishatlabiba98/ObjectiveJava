@@ -21,4 +21,5 @@ The sections are:
 - personproperty
 - productmanager
 
-(did you know that ctrl-T is the Mac keyboard shortcut which swaps two letters?)
+(did you know that ctrl-T is the Mac keyboard shortcut which swaps two letters?
+) haha kris ur funnny.
